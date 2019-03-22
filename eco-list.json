@@ -1,0 +1,11 @@
+{
+    "name": "tame",
+    "list": [
+        {
+            "text" : "something here"
+        },
+        {
+            "text" : "something here else"
+        }
+    ]
+}
