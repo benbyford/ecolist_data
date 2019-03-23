@@ -1,6 +1,6 @@
 {
     "lang" : "en",
-    "tame-list": [
+    "tame_list": [
         {
             "text" : "Reduce, reuse, recycle"
         },
@@ -20,7 +20,7 @@
             "text" : "Purchase less plastic items"
         }
     ],
-    "harsh-list": [
+    "harsh_list": [
         {
             "text" : "Reduce, reuse, recycle"
         },
