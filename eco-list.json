@@ -1,11 +1,43 @@
 {
-    "name": "tame",
-    "list": [
+    "lang" : "en",
+    "tame-list": [
         {
-            "text" : "something here"
+            "text" : "Reduce, reuse, recycle"
         },
         {
-            "text" : "something here else"
+            "text" : "Eat less meat"
+        },
+        {
+            "text" : "Turn off devices and appliances when not in use"
+        },
+        {
+            "text" : "Walk, cycle, ride-share or use public transport"
+        },
+        {
+            "text" : "Have more showers instead of baths"
+        },
+        {
+            "text" : "Purchase less plastic items"
+        }
+    ],
+    "harsh-list": [
+        {
+            "text" : "Reduce, reuse, recycle"
+        },
+        {
+            "text" : "Don't eat meat"
+        },
+        {
+            "text" : "Turn off devices and appliances"
+        },
+        {
+            "text" : "Walk, cycle, use public transport"
+        },
+        {
+            "text" : "Don't have bath"
+        },
+        {
+            "text" : "Don't purchase any plastic items"
         }
     ]
 }
