@@ -16,7 +16,19 @@
             "text" : "Have more showers instead of baths"
         },
         {
+            "text" : "Have less showers"
+        },
+        {
             "text" : "Purchase less plastic items"
+        },
+        {
+            "text" : "Don't waste water"
+        },
+        {
+            "text" : "Smile"
+        },
+        {
+            "text" : "Don't waste water"
         }
     ],
     "harsh_list": [
@@ -37,6 +49,9 @@
         },
         {
             "text" : "Don't purchase any plastic items"
+        },
+        {
+            "text" : "Hug"
         }
     ]
 }
