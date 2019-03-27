@@ -29,6 +29,48 @@
         },
         {
             "text" : "Don't waste water"
+        },
+        {
+            "text" : "Plant trees"
+        },
+        {
+            "text" : "When possible try not to fly"
+        },
+        {
+            "text" : "Buy locally"
+        },
+        {
+            "text" : "Don't litter"
+        },
+        {
+            "text" : "Use reuseable hot drink containers"
+        },
+        {
+            "text" : "Use fewer chemicals"
+        },
+        {
+            "text" : "Be concious of your buying habits"
+        },
+        {
+            "text" : "Purchase renewable energy only"
+        },
+        {
+            "text" : "Waste less food"
+        },
+        {
+            "text" : "Use LED lighting"
+        },
+        {
+            "text" : "Insulate your home"
+        },
+        {
+            "text" : "Buy used"
+        },
+        {
+            "text" : "Introduced local planting to unused spaces"
+        },
+        {
+            "text" : "Turn your heating down 1 degree"
         }
     ],
     "harsh_list": [
@@ -52,6 +94,48 @@
         },
         {
             "text" : "Hug"
+        },
+        {
+            "text" : "Plant more trees"
+        },
+        {
+            "text" : "Don't fly"
+        },
+        {
+            "text" : "Buy and grow locally"
+        },
+        {
+            "text" : "Stop litters"
+        },
+        {
+            "text" : "Use reuseable hot drink containers"
+        },
+        {
+            "text" : "Use fewer chemicals"
+        },
+        {
+            "text" : "Consider buying less 'stuff'"
+        },
+        {
+            "text" : "Purchase renewable energy only"
+        },
+        {
+            "text" : "Don't waste less food"
+        },
+        {
+            "text" : "Use LED lighting, and other low energy technologies"
+        },
+        {
+            "text" : "Use passive house strategies"
+        },
+        {
+            "text" : "Buy used"
+        },
+        {
+            "text" : "Turn concrete waste lands into natural oases"
+        },
+        {
+            "text" : "Only heat your house when necessary"
         }
     ]
 }
