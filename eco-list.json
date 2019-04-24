@@ -28,9 +28,6 @@
             "text" : "Smile"
         },
         {
-            "text" : "Don't waste water"
-        },
-        {
             "text" : "Plant trees"
         },
         {
@@ -71,6 +68,9 @@
         },
         {
             "text" : "Turn your heating down 1 degree"
+        },
+        {
+            "text" : "Vote for environmentally focused politicians"
         }
     ],
     "harsh_list": [
@@ -120,7 +120,7 @@
             "text" : "Purchase renewable energy only"
         },
         {
-            "text" : "Don't waste less food"
+            "text" : "waste less food"
         },
         {
             "text" : "Use LED lighting, and other low energy technologies"
@@ -136,6 +136,9 @@
         },
         {
             "text" : "Only heat your house when necessary"
+        },
+        {
+            "text" : "Vote for environmentally focused politicians, demand environmentally focused legislation"
         }
     ]
 }
