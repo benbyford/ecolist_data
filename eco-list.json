@@ -71,6 +71,9 @@
         },
         {
             "text" : "Vote for environmentally focused politicians"
+        },
+        {
+            "text" : "Consider keeping less pets"
         }
     ],
     "harsh_list": [
@@ -139,6 +142,9 @@
         },
         {
             "text" : "Vote for environmentally focused politicians, demand environmentally focused legislation"
+        },
+        {
+            "text" : "Consider having less pets and children"
         }
     ]
 }
