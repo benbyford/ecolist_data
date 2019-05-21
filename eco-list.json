@@ -74,6 +74,9 @@
         },
         {
             "text" : "Consider keeping less pets"
+        },
+        {
+            "text": "Go on Climate Strike on certain Fridays"
         }
     ],
     "harsh_list": [
@@ -145,6 +148,9 @@
         },
         {
             "text" : "Consider having less pets and children"
+        }, 
+        {
+            "text" : "Go on Climate Strike every Friday"
         }
     ]
 }
