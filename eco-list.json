@@ -74,6 +74,9 @@
         },
         {
             "text" : "Consider keeping fewer pets"
+        },
+        {
+            "text" : "Support climate stikes and rallies"
         }
     ],
     "harsh_list": [
@@ -145,6 +148,9 @@
         },
         {
             "text" : "Consider having fewer pets and children"
+        },
+        {
+            "text" : "Help organise climate stikes and rallies"
         }
     ]
 }
