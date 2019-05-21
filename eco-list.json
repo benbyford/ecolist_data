@@ -16,10 +16,10 @@
             "text" : "Have more showers instead of baths"
         },
         {
-            "text" : "Have less showers"
+            "text" : "Have fewer showers"
         },
         {
-            "text" : "Purchase less plastic items"
+            "text" : "Purchase fewer plastic items"
         },
         {
             "text" : "Don't waste water"
@@ -64,7 +64,7 @@
             "text" : "Buy used"
         },
         {
-            "text" : "Introduced local planting to unused spaces"
+            "text" : "Introduce local planting to unused spaces"
         },
         {
             "text" : "Turn your heating down 1 degree"
@@ -73,7 +73,7 @@
             "text" : "Vote for environmentally focused politicians"
         },
         {
-            "text" : "Consider keeping less pets"
+            "text" : "Consider keeping fewer pets"
         }
     ],
     "harsh_list": [
@@ -144,7 +144,7 @@
             "text" : "Vote for environmentally focused politicians, demand environmentally focused legislation"
         },
         {
-            "text" : "Consider having less pets and children"
+            "text" : "Consider having fewer pets and children"
         }
     ]
 }
