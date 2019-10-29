@@ -10,6 +10,9 @@
             "text" : "Turn off devices and appliances when not in use"
         },
         {
+            "text" : "Standby devices are still using energy"
+        },
+        {
             "text" : "Walk, cycle, ride-share or use public transport"
         },
         {
@@ -88,6 +91,9 @@
         },
         {
             "text" : "Turn off devices and appliances"
+        },
+        {
+            "text" : "Never leave appliances on after use"
         },
         {
             "text" : "Walk, cycle, use public transport"
