@@ -31,6 +31,9 @@
             "text" : "Smile"
         },
         {
+            "text" : "Consider alternative modes of transport instead of cars and planes"
+        },
+        {
             "text" : "Plant trees"
         },
         {
@@ -157,6 +160,9 @@
         },
         {
             "text" : "Help organise climate stikes and rallies"
+        },
+        {
+            "text" : "Don't use petrol cars and planes"
         }
     ]
 }
