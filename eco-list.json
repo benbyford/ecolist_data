@@ -83,6 +83,9 @@
         },
         {
             "text" : "Support climate stikes and rallies"
+        },
+        {
+            "text" : "Use mass transit options, use electric vehicles where possible"
         }
     ],
     "harsh_list": [
@@ -163,6 +166,10 @@
         },
         {
             "text" : "Don't use petrol cars and planes"
+        },
+        {
+            "text" : "Use mass transit options only, don't buy cars"
         }
+        
     ]
 }
