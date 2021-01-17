@@ -86,6 +86,9 @@
         },
         {
             "text" : "Use mass transit options, use electric vehicles where possible"
+        },
+        {
+            "text" : "Check your investments and pensions for green investments, cutting out fossil fuel interests"
         }
     ],
     "harsh_list": [
@@ -169,7 +172,9 @@
         },
         {
             "text" : "Use mass transit options only, don't buy cars"
+        },
+        {
+            "text" : "Invest in green technologies, systems, designs, and communities"
         }
-        
     ]
 }
