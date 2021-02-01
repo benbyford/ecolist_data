@@ -89,6 +89,9 @@
         },
         {
             "text" : "Check your investments and pensions for green investments, cutting out fossil fuel interests"
+        },
+        {
+            "text" : "Create cultural artefacts that present positive environmental messaging"
         }
     ],
     "harsh_list": [
@@ -175,6 +178,9 @@
         },
         {
             "text" : "Invest in green technologies, systems, designs, and communities"
+        },
+        {
+            "text" : "Promote, invest in and create cultural artefacts that present positive environmental messaging"
         }
     ]
 }
