@@ -16,7 +16,7 @@
             "text" : "Walk, cycle, ride-share or use public transport"
         },
         {
-            "text" : "Have more showers instead of baths"
+            "text" : "Have showers instead of baths"
         },
         {
             "text" : "Have fewer showers"
@@ -25,7 +25,7 @@
             "text" : "Purchase fewer plastic items"
         },
         {
-            "text" : "Don't waste water"
+            "text" : "Try not to waste water"
         },
         {
             "text" : "Smile"
@@ -85,13 +85,16 @@
             "text" : "Support climate stikes and rallies"
         },
         {
-            "text" : "Use mass transit options, use electric vehicles where possible"
+            "text" : "Use mass transit options and  electric vehicles where possible"
         },
         {
             "text" : "Check your investments and pensions for green investments, cutting out fossil fuel interests"
         },
         {
             "text" : "Create cultural artefacts that present positive environmental messaging"
+        },
+        {
+            "text" : "Open a dialogue with friends and family on environemntal issues"
         }
     ],
     "harsh_list": [
@@ -181,6 +184,15 @@
         },
         {
             "text" : "Promote, invest in and create cultural artefacts that present positive environmental messaging"
+        },
+        {
+            "text" : "Check your investments and pensions for green investments, cutting out fossil fuel interests"
+        },
+        {
+            "text" : "Create cultural artefacts that promote positive environmental messaging"
+        },
+        {
+            "text" : "Talk to friends and family about their environmental considerations"
         }
     ]
 }
