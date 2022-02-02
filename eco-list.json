@@ -7,6 +7,9 @@
             "text" : "Eat less meat"
         },
         {
+            "text" : "Unsubscribe to marketing emails"
+        },
+        {
             "text" : "Turn off devices and appliances when not in use"
         },
         {
@@ -103,6 +106,9 @@
         },
         {
             "text" : "Don't eat meat"
+        },
+        {
+            "text" : "Unsubscribe to all emails"
         },
         {
             "text" : "Turn off devices and appliances"
