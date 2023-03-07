@@ -101,6 +101,9 @@
         },
         {
             "text" : "Eat vegetarian or vegan"
+        },
+        {
+            "text" : "Put your money in an ethical bank"
         }
     ],
     "harsh_list": [
@@ -205,6 +208,9 @@
         },
         {
             "text" : "Eat vegan"
+        },
+        {
+            "text" : "Invest in ethical and environmental charities, businesses and causes"
         }
     ]
 }
