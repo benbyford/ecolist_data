@@ -98,6 +98,9 @@
         },
         {
             "text" : "Open a dialogue with friends and family on environemntal issues"
+        },
+        {
+            "text" : "Eat vegetarian or vegan"
         }
     ],
     "harsh_list": [
@@ -199,6 +202,9 @@
         },
         {
             "text" : "Talk to friends and family about their environmental considerations"
+        },
+        {
+            "text" : "Eat vegan"
         }
     ]
 }
