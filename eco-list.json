@@ -28,6 +28,9 @@
             "text" : "Purchase fewer plastic items"
         },
         {
+            "text" : "Reuse plastic items, recycle or upcycle into new items"
+        },
+        {
             "text" : "Try not to waste water"
         },
         {
@@ -130,6 +133,9 @@
         },
         {
             "text" : "Don't purchase any plastic items"
+        },
+        {
+            "text" : "Fight against single use plastics"
         },
         {
             "text" : "Hug"
